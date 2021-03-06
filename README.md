@@ -33,6 +33,6 @@ The [images](https://github.com/deyoungmatthew/stocks-analysis/tree/main/Resourc
 
 The advantages of refactored code cannot be understated.  A half second improvement on analyzing just over 3,000 rows of data is significant when considering that this code could be used for analyzing millions, or even tens of millions of lines of data from the stock market.  This would save a significant amount of time and could potentially avert large, costly investments in data processing equipment.
 
-Refactoring is not without it's disadvantages.  While the code could potentially take less lines of actual code and save significant amounts of time large data sets, refactoring is more complex and potentially prone to mistakes.  There is a potential of larger investments of time up front to develop the code to make it run more efficiently.
+Refactoring is not without it's disadvantages.  While the code could potentially take less lines of actual code and save significant amounts of time analyzing large data sets, refactoring is more complex and potentially prone to mistakes.  There is a potential of larger investments of time up front to develop the code to make it run more efficiently.
 
 In regards to the rafactoring the original code for this particular project, if the client were only ever going to processing the same amount of data, refactoring might not be worth the up front cost of figuring out the coding.  However, if they expected to analyze much larger data sets, the refactoring is more than worth the up front costs of refactoring the original VBA code.
