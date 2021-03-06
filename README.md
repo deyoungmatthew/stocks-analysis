@@ -5,7 +5,7 @@ The purpose of the original project was to use provided stock ticker data, inclu
 
 ## **Results**
 
-The [images](https://github.com/deyoungmatthew/stocks-analysis/tree/main/Resources) of the results show the effective increase of refactoring the VBA code.  For example, there was a over a half second improvement in performance between the original code vs. the updated code when analyzing the 2017 data.  See the comparison images below.
+The [images](https://github.com/deyoungmatthew/stocks-analysis/tree/main/Resources) of the results show the effective decrease in time as a result of refactoring the VBA code.  For example, there was a over a half second improvement in performance between the original code vs. the updated code when analyzing the 2017 data.  See the comparison images below.
 
 **Original Code runtime for 2017 data**
 ![Original_Code_2017](https://user-images.githubusercontent.com/78942457/110198614-d0fa0980-7e21-11eb-8b71-0503e2ac3ccd.PNG)
