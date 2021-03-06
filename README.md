@@ -11,12 +11,15 @@ The [images](https://github.com/deyoungmatthew/stocks-analysis/tree/main/Resourc
 ![Original_Code_2017](https://user-images.githubusercontent.com/78942457/110198614-d0fa0980-7e21-11eb-8b71-0503e2ac3ccd.PNG)
 
 **Refactored Code runtime of 2017 data**
+
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/78942457/110198615-d5262700-7e21-11eb-837a-0fdfc09a6545.png)
 
  The same efficiency was observed when running the 2018 results:
 
 **Original Code runtime for 2018 data**
-![Uploading Original_Code_2018.PNG…]()
+
+![Original_Code_2018](https://user-images.githubusercontent.com/78942457/110198991-3cdd7180-7e24-11eb-80aa-fa66b7a16f05.PNG)
+
 
 **Refactored Code runtime of 2018 data**
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/78942457/110198716-79a86900-7e22-11eb-9bc8-b9c68d0e2ed8.png)
