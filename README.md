@@ -1,7 +1,7 @@
 # **Stocks Analysis**
 ## **Overview of the Project**
 
-The purpose of the original project was to use provided stock ticker data, including ticker ID, trading volume, and beginning and ending prices.  We utlized this data to perform an analysys to determine which of the 12 "green energy" stocks were most profitable during these two calendar year.  The data was then provide for to Steve in an effort for him to assist his parents in determining the trends of these stocks for an investment strategy.  The purpose of this project was to refactor the code to make it more efficient.
+The purpose of the original project was to use provided stock ticker data, including ticker ID, trading volume, and beginning and ending prices.  We utlized this data to perform an analysys to determine which of the 12 "green energy" stocks were most profitable during these two calendar years.  The data was then provide for to Steve in an effort for him to assist his parents in determining the trends of these stocks for an investment strategy.  The purpose of this project was to refactor the code to make it more efficient.
 
 ## **Results**
 
